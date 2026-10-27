@@ -1,6 +1,7 @@
 {
   "schema": 1,
-  "rev": 1,
+  "rev": 2,
   "values": {},
-  "versions": {}
+  "versions": {},
+  "update": {"latest": "1.0.0"}
 }
